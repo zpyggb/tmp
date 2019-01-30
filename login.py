@@ -1,2 +1,2 @@
 def demo():
-	print('demo info2019')
+	print('demo info')
